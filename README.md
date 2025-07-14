@@ -1,5 +1,4 @@
 # 🚀 Construindo um Sistema de Xadrez com Java
---
 
 Projeto desenvolvido como parte do curso **"Programação Orientada a Objetos com Java"** ministrado pelo Prof. Nelio Alves.
 
