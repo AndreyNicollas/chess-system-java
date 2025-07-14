@@ -2,8 +2,7 @@
 
 Projeto desenvolvido como parte do curso **"Programação Orientada a Objetos com Java"** ministrado pelo Prof. Nelio Alves.
 
-Este projeto de estudos tem como objetivo aplicar, de forma prática, todos os conceitos fundamentais de Programação Orientada a Objetos, 
-utilizando a linguagem Java, por meio da construção de um sistema completo de Jogo de xadrez via termnal console.
+Este projeto de estudos tem como objetivo aplicar, de forma prática, todos os conceitos fundamentais de Programação Orientada a Objetos, utilizando a linguagem Java, por meio da construção de um sistema completo de Jogo de xadrez via termnal console.
 
 ---
 
